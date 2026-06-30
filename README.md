@@ -2,7 +2,7 @@
 
 ## Senior iOS Engineer | Swift • SwiftUI • UIKit • Clean Architecture
 
-I'm a passionate Senior iOS Engineer with 6+ years of experience building scalable, high-performance iOS applications for startups and enterprise companies across Saudi Arabia, UAE, Egypt, France, Italy, Spain, Kuwait, and Qatar.
+I'm a passionate Senior iOS Engineer with **6+ years** of experience building scalable, high-performance iOS applications for startups and enterprise companies across **Saudi Arabia, UAE, Egypt, France, Italy, Spain, Kuwait, and Qatar**.
 
 I specialize in creating clean, maintainable architectures, migrating legacy UIKit applications to SwiftUI, optimizing application performance, and delivering exceptional user experiences.
 
@@ -23,13 +23,15 @@ I specialize in creating clean, maintainable architectures, migrating legacy UIK
 ## 💼 Professional Experience
 
 ### Senior iOS Engineer
-**1Pass** (2025 – 2026)
+
+**1Pass** (2025 – Present)
 
 - Migrated legacy UIKit applications to SwiftUI
 - Improved UI architecture using Combine
 - Accelerated feature development through modern architecture
 
 ### Senior iOS Engineer
+
 **LAMSA** (2023 – 2025)
 
 - Designed scalable applications using Clean Architecture and MVVM
@@ -37,6 +39,7 @@ I specialize in creating clean, maintainable architectures, migrating legacy UIK
 - Built maintainable and reusable components
 
 ### Mid-Level iOS Engineer
+
 **OrchTech** (2022 – 2023)
 
 - Developed multilingual applications
@@ -52,7 +55,7 @@ I specialize in creating clean, maintainable architectures, migrating legacy UIK
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -111,89 +114,64 @@ I specialize in creating clean, maintainable architectures, migrating legacy UIK
 - TestFlight
 
 ---
+
 # 📱 Published Apps
 
-## <img width="50" height="50" alt="Screenshot 2026-06-30 at 12 18 32 PM" src="https://github.com/user-attachments/assets/0900d321-0176-4455-bcb3-de63b098d8f7" /> 1Pass
+## <img width="50" height="50" alt="1Pass" src="https://github.com/user-attachments/assets/0900d321-0176-4455-bcb3-de63b098d8f7" /> [1Pass](https://apps.apple.com/us/app/1pass/id1261918868)
 
-Fitness membership platform providing access to more than **170+ gyms and studios** across Saudi Arabia.
-
-📲 App Store  
-https://apps.apple.com/us/app/1pass/id1261918868
+Fitness membership platform providing access to **170+ gyms and studios** across Saudi Arabia, offering flexible fitness subscriptions and a seamless user experience.
 
 ---
 
-##  <img width="50" height="50" alt="Screenshot 2026-06-30 at 12 19 20 PM" src="https://github.com/user-attachments/assets/7c98496b-a21a-44ec-a313-7c892b99b33e" /> Lamsa Kids Learning App
+## <img width="50" height="50" alt="Lamsa Kids" src="https://github.com/user-attachments/assets/7c98496b-a21a-44ec-a313-7c892b99b33e" /> [Lamsa Kids Learning App](https://apps.apple.com/eg/app/lamsa-kids-learning-app/id517583488)
 
-Top-rated bilingual educational application with **1200+ interactive games and learning activities**.
-
-📲 App Store  
-https://apps.apple.com/eg/app/lamsa-kids-learning-app/id517583488
+Top-rated bilingual educational application featuring **1200+ interactive games and learning activities** for children.
 
 ---
 
+## <img width="50" height="50" alt="Hawy" src="https://github.com/user-attachments/assets/93af2b1e-e528-46e7-be4a-a227bbb64d2a" /> [Hawy](https://apps.apple.com/us/app/hawy-%D9%87%D8%A7%D9%88%D9%8A/id1667151723)
 
-## <img width="50" height="50" alt="Screenshot 2026-06-30 at 12 26 17 PM" src="https://github.com/user-attachments/assets/93af2b1e-e528-46e7-be4a-a227bbb64d2a" /> Hawy
-
-Marketplace and auction platform for collectors and hobbyists.
-
-📲 App Store  
-https://apps.apple.com/us/app/hawy-هاوي/id1667151723
+Marketplace and auction platform designed for collectors and hobbyist communities.
 
 ---
 
-## <img width="50" height="50" alt="Screenshot 2026-06-30 at 12 20 56 PM" src="https://github.com/user-attachments/assets/4ec82406-5688-47d9-bea3-6d099a5771e5" /> Alhuwaiyah
+## <img width="50" height="50" alt="Alhuwaiyah" src="https://github.com/user-attachments/assets/4ec82406-5688-47d9-bea3-6d099a5771e5" /> [Alhuwaiyah](https://apps.apple.com/us/app/alhuwaiyah-%D8%A7%D9%84%D9%87%D9%88%D9%8A%D8%A9/id6783348553)
 
-is an online multiplayer social deduction game based on hidden roles, discussion, investigation, and voting. 
-Players can create private rooms or join available rooms to play with others in real-time.
-
-📲 App Store  
-https://apps.apple.com/us/app/alhuwaiyah-الهوية/id6783348553
+An online multiplayer social deduction game based on hidden roles, discussion, investigation, and voting. Players can create private rooms or join available rooms to play with others in real time.
 
 ---
 
-## <img width="50" height="50" alt="Screenshot 2026-06-30 at 12 21 26 PM" src="https://github.com/user-attachments/assets/51dcab76-8794-4e10-92f1-d23358debf89" /> Golden Coupon
+## <img width="50" height="50" alt="Golden Coupon" src="https://github.com/user-attachments/assets/51dcab76-8794-4e10-92f1-d23358debf89" /> [Golden Coupon](https://apps.apple.com/eg/app/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D9%83%D9%88%D8%A8%D9%88%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%83%D9%88%D8%A8%D9%88%D9%86-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A/id1617640320)
 
 Coupon platform delivering exclusive discounts through official partnerships with stores and affiliate companies.
 
-📲 App Store  
-https://apps.apple.com/eg/app/برنامج-كوبونات-الكوبون-الذهبي/id1617640320
+---
+
+## <img width="50" height="50" alt="Naos App Link" src="https://github.com/user-attachments/assets/9585ab21-07e5-47a0-b24b-fcf0275baa54" /> [Naos App Link](https://apps.apple.com/us/app/naos-app-link/id672642462)
+
+Customer relationship management and marketing platform offering scalable CRM solutions.
 
 ---
 
-## <img width="50" height="50" alt="Screenshot 2026-06-30 at 12 21 59 PM" src="https://github.com/user-attachments/assets/9585ab21-07e5-47a0-b24b-fcf0275baa54" /> Naos App Link
+## <img width="50" height="50" alt="OrchTech App" src="https://github.com/user-attachments/assets/5bd93cb5-f9bf-4d51-8f50-59757489911c" /> [OrchTech App](https://apps.apple.com/us/app/orchtech-app/id6444028368)
 
-Customer relationship management and marketing platform.
-
-📲 App Store  
-https://apps.apple.com/us/app/naos-app-link/id672642462
+Corporate application showcasing OrchTech's software development, HR solutions, outsourcing, and augmented reality services.
 
 ---
 
-## <img width="50" height="50" alt="Screenshot 2026-06-30 at 12 23 19 PM" src="https://github.com/user-attachments/assets/5bd93cb5-f9bf-4d51-8f50-59757489911c" /> OrchTech App
+## <img width="50" height="50" alt="OrchTech HR" src="https://github.com/user-attachments/assets/a62e020e-25ca-4105-b29a-667d016820c9" /> [OrchTech HR](https://apps.apple.com/us/app/orchtech-hr/id6593688258)
 
-Corporate application showcasing OrchTech services including software development, HR solutions, outsourcing and augmented reality.
-
-📲 App Store  
-https://apps.apple.com/us/app/orchtech-app/id6444028368
-
----
-
-## <img width="50" height="50" alt="Screenshot 2026-06-30 at 12 25 02 PM" src="https://github.com/user-attachments/assets/a62e020e-25ca-4105-b29a-667d016820c9" /> OrchTech HR
-
-Employee engagement and HR SaaS platform focused on communication and productivity.
-
-📲 App Store  
-https://apps.apple.com/us/app/orchtech-hr/id6593688258
+Employee engagement and HR SaaS platform focused on communication, collaboration, and productivity.
 
 ---
 
 ## 📫 Connect with Me
 
-- <img width="25" height="25" alt="phone" src="https://github.com/user-attachments/assets/132c4475-2fc5-4e64-8d5e-388baa80fbf4" /> Phone: +201069886288
-- <img width="25" height="25" alt="whats" src="https://github.com/user-attachments/assets/7d4b0e15-27df-4db4-b712-8c2ba1034fa3" /> WhatsApp: +201069886288
-- <img width="25" height="25" alt="email" src="https://github.com/user-attachments/assets/95efe14d-3e6f-46f6-b085-fb6d183dc14d" /> Email: alyfawzy098@gmail.com
-- <img width="25" height="25" alt="linkedin" src="https://github.com/user-attachments/assets/569ca7d9-9a10-4f45-b733-87d30a9cd382" /> LinkedIn: https://linkedin.com/in/aly-fawzy-67b698161
-- <img width="25" height="25" alt="github" src="https://github.com/user-attachments/assets/a0e905cc-0649-4727-86ee-9b822ee57290" /> GitHub: https://github.com/AliFawzy
+- <img width="25" height="25" alt="Phone" src="https://github.com/user-attachments/assets/132c4475-2fc5-4e64-8d5e-388baa80fbf4" /> **Phone:** +20 106 988 6288
+- <img width="25" height="25" alt="WhatsApp" src="https://github.com/user-attachments/assets/7d4b0e15-27df-4db4-b712-8c2ba1034fa3" /> **WhatsApp:** +20 106 988 6288
+- <img width="25" height="25" alt="Email" src="https://github.com/user-attachments/assets/95efe14d-3e6f-46f6-b085-fb6d183dc14d" /> **Email:** <a href="mailto:alyfawzy098@gmail.com">alyfawzy098@gmail.com</a>
+- <img width="25" height="25" alt="LinkedIn" src="https://github.com/user-attachments/assets/569ca7d9-9a10-4f45-b733-87d30a9cd382" /> **LinkedIn:** <a href="https://linkedin.com/in/aly-fawzy-67b698161">linkedin.com/in/aly-fawzy-67b698161</a>
+- <img width="25" height="25" alt="GitHub" src="https://github.com/user-attachments/assets/a0e905cc-0649-4727-86ee-9b822ee57290" /> **GitHub:** <a href="https://github.com/AliFawzy">github.com/AliFawzy</a>
 
 ---
 
@@ -209,4 +187,4 @@ https://apps.apple.com/us/app/orchtech-hr/id6593688258
 
 ---
 
-> "Building elegant, scalable, and high-performance iOS applications that create exceptional user experiences."
+> **"Building elegant, scalable, and high-performance iOS applications that create exceptional user experiences."**
