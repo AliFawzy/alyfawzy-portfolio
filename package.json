@@ -1,14 +1,17 @@
 {
+  "homepage": "https://github.com/AliFawzy/alyfawzy-portfolio",
   "name": "alyfawzy-portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "deploy": "next build && touch out/.nojekyll && gh-pages -d out",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "next": "16.2.9",
     "react": "19.2.4",
     "react-dom": "19.2.4"
