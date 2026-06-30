@@ -113,7 +113,7 @@ I specialize in creating clean, maintainable architectures, migrating legacy UIK
 ---
 # 📱 Published Apps
 
-## 🏋️ 1Pass
+## <img width="116" height="118" alt="Screenshot 2026-06-30 at 12 18 32 PM" src="https://github.com/user-attachments/assets/0900d321-0176-4455-bcb3-de63b098d8f7" /> 1Pass
 
 Fitness membership platform providing access to more than **170+ gyms and studios** across Saudi Arabia.
 
@@ -122,7 +122,8 @@ https://apps.apple.com/us/app/1pass/id1261918868
 
 ---
 
-## 📚 Lamsa Kids Learning App
+##  <img width="99" height="100" alt="Screenshot 2026-06-30 at 12 19 20 PM" src="https://github.com/user-attachments/assets/7c98496b-a21a-44ec-a313-7c892b99b33e" />
+ Lamsa Kids Learning App
 
 Top-rated bilingual educational application with **1200+ interactive games and learning activities**.
 
@@ -131,16 +132,9 @@ https://apps.apple.com/eg/app/lamsa-kids-learning-app/id517583488
 
 ---
 
-## 🏠 Elhodhod
 
-Home maintenance platform supporting **real-time communication and live auctions**.
-
-📲 App Store  
-https://apps.apple.com/eg/app/elhodhod/id6744564467
-
----
-
-## 🦅 Hawy
+## <img width="196" height="197" alt="Screenshot 2026-06-30 at 12 26 17 PM" src="https://github.com/user-attachments/assets/93af2b1e-e528-46e7-be4a-a227bbb64d2a" />
+ Hawy
 
 Marketplace and auction platform for collectors and hobbyists.
 
@@ -149,7 +143,8 @@ https://apps.apple.com/us/app/hawy-هاوي/id1667151723
 
 ---
 
-## 🪪 Alhuwaiyah
+## <img width="117" height="115" alt="Screenshot 2026-06-30 at 12 20 56 PM" src="https://github.com/user-attachments/assets/4ec82406-5688-47d9-bea3-6d099a5771e5" />
+ Alhuwaiyah
 
 is an online multiplayer social deduction game based on hidden roles, discussion, investigation, and voting. 
 Players can create private rooms or join available rooms to play with others in real-time.
@@ -159,7 +154,8 @@ https://apps.apple.com/us/app/alhuwaiyah-الهوية/id6783348553
 
 ---
 
-## 🎫 Golden Coupon
+## <img width="96" height="89" alt="Screenshot 2026-06-30 at 12 21 26 PM" src="https://github.com/user-attachments/assets/51dcab76-8794-4e10-92f1-d23358debf89" />
+ Golden Coupon
 
 Coupon platform delivering exclusive discounts through official partnerships with stores and affiliate companies.
 
@@ -168,7 +164,8 @@ https://apps.apple.com/eg/app/برنامج-كوبونات-الكوبون-الذ�
 
 ---
 
-## 🏢 Naos App Link
+## <img width="98" height="97" alt="Screenshot 2026-06-30 at 12 21 59 PM" src="https://github.com/user-attachments/assets/9585ab21-07e5-47a0-b24b-fcf0275baa54" />
+ Naos App Link
 
 Customer relationship management and marketing platform.
 
@@ -177,7 +174,8 @@ https://apps.apple.com/us/app/naos-app-link/id672642462
 
 ---
 
-## 💼 OrchTech App
+## <img width="115" height="117" alt="Screenshot 2026-06-30 at 12 23 19 PM" src="https://github.com/user-attachments/assets/5bd93cb5-f9bf-4d51-8f50-59757489911c" />
+ OrchTech App
 
 Corporate application showcasing OrchTech services including software development, HR solutions, outsourcing and augmented reality.
 
@@ -186,7 +184,8 @@ https://apps.apple.com/us/app/orchtech-app/id6444028368
 
 ---
 
-## 👥 OrchTech HR
+## <img width="92" height="96" alt="Screenshot 2026-06-30 at 12 25 02 PM" src="https://github.com/user-attachments/assets/a62e020e-25ca-4105-b29a-667d016820c9" />
+ OrchTech HR
 
 Employee engagement and HR SaaS platform focused on communication and productivity.
 
